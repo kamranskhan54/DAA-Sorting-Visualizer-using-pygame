@@ -164,7 +164,6 @@ Possible improvements include:
 **Project Title:** DAA Sorting Visualizer
 **Subject:** Design and Analysis of Algorithms
 **Language:** Python
-**GUI Framework:** Tkinter
 **Project Type:** Academic Mini-Project
 
 ---
