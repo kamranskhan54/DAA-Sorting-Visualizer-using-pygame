@@ -169,4 +169,3 @@ Possible improvements include:
 ---
 
 *This project is intended for educational purposes and demonstrates the working of sorting algorithms through graphical animation.*
-ch
